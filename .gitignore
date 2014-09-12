@@ -16,6 +16,17 @@ gen/
 .gradle/
 build/
 
+## JetBeans IDEs
+.idea/
+.gradle/
+
+*.iml
+*.ipr
+*.iws
+*.swp
+local.properties
+
+
 # Local configuration file (sdk path, etc)
 local.properties
 
